@@ -1,3 +1,6 @@
+NOTE:
+SQLnya terlalu boros memory belum dioptimasi
+
 ###################
 What is CodeIgniter
 ###################
